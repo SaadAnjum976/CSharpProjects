@@ -1,0 +1,6 @@
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/bin/Debug/StudentMarkSheet.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/bin/Debug/StudentMarkSheet.pdb
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/obj/Debug/StudentMarkSheet.csproj.AssemblyReference.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/obj/Debug/StudentMarkSheet.csproj.CoreCompileInputs.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/obj/Debug/StudentMarkSheet.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/StudentMarkSheet/StudentMarkSheet/StudentMarkSheet/obj/Debug/StudentMarkSheet.pdb
