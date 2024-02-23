@@ -1,0 +1,6 @@
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/bin/Debug/Calculator.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/bin/Debug/Calculator.pdb
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/obj/Debug/Calculator.csproj.AssemblyReference.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/obj/Debug/Calculator.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/Calculator/Calculator/Calculator/obj/Debug/Calculator.pdb
