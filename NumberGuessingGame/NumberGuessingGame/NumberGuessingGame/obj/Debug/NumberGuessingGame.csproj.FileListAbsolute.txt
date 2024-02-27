@@ -1,0 +1,6 @@
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/bin/Debug/NumberGuessingGame.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/bin/Debug/NumberGuessingGame.pdb
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.csproj.AssemblyReference.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/NumberGuessingGame/NumberGuessingGame/NumberGuessingGame/obj/Debug/NumberGuessingGame.pdb
