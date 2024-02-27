@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoll", "DiceRoll\DiceRoll.csproj", "{97B08D8C-9AA4-4FDE-87DE-5FEBF4878FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97B08D8C-9AA4-4FDE-87DE-5FEBF4878FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B08D8C-9AA4-4FDE-87DE-5FEBF4878FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B08D8C-9AA4-4FDE-87DE-5FEBF4878FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B08D8C-9AA4-4FDE-87DE-5FEBF4878FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

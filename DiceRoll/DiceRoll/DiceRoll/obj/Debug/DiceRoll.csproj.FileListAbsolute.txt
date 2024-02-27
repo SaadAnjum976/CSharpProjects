@@ -1,0 +1,6 @@
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/bin/Debug/DiceRoll.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/bin/Debug/DiceRoll.pdb
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/obj/Debug/DiceRoll.csproj.AssemblyReference.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/obj/Debug/DiceRoll.csproj.CoreCompileInputs.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/obj/Debug/DiceRoll.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/DiceRoll/DiceRoll/DiceRoll/obj/Debug/DiceRoll.pdb
