@@ -1,0 +1,6 @@
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/bin/Debug/TacTacToe.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/bin/Debug/TacTacToe.pdb
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/obj/Debug/TacTacToe.csproj.AssemblyReference.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/obj/Debug/TacTacToe.csproj.CoreCompileInputs.cache
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/obj/Debug/TacTacToe.exe
+/Users/saadanjum/RiderProjects/CsharpProjects/TicTacToe/TacTacToe/TacTacToe/obj/Debug/TacTacToe.pdb
